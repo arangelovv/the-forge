@@ -1,0 +1,3 @@
+[submodule "the-forge/src/LibFacade"]
+	path = the-forge/src/LibFacade
+	url = git@rangelovvjobs.github.com:arangelovv/LibFacade.git
