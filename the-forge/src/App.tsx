@@ -1,7 +1,14 @@
+import { AppBar } from "@mui/material";
+import AppBarOrganism from "./LibFacade/src/ui/organisms/AppBar.org";
+
 function App() {
   return (
     <>
-      <h1>The Forge</h1>
+      <AppBarOrganism
+        color="default"
+        position="fixed"
+        title="The Forge"
+      ></AppBarOrganism>
     </>
   );
 }
